@@ -112,7 +112,7 @@ smart-campus-ai/
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/smart-campus-ai.git
+git clone https://github.com/vishakha0534/smart-campus-ai.git
 2️⃣ Install Frontend Dependencies
 cd frontend
 npm install
