@@ -1,0 +1,1116 @@
+Shruti Das is a second-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Manish Kumar is a second-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Priya Gupta is a third-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Rahul Rao is a second-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Riaan Sharma is a third-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Riya Sharma is a third-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Arjun Das is a second-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Rajat Sharma is a third-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Kunal Desai is a third-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Shruti Kumar is a fourth-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Shruti Yadav is a third-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Surya Patel is a first-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Kriti Reddy is a third-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Aarav Gupta is a third-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Kavya Iyer is a fourth-year AIML student in section A. Their faculty coordinator is Karan Joshi.
+Vivaan Chauhan is a third-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Ajay Iyer is a third-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Karan Chauhan is a first-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Ananya Singh is a fourth-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Rohan Solanki is a first-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Kriti Pandey is a first-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Diya Iyer is a fourth-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Kunal Singh is a second-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Isha Sharma is a third-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Pooja Patel is a first-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Roshni Das is a first-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Ritu Bose is a first-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Aditi Desai is a second-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Surya Das is a fourth-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Pooja Iyer is a fourth-year AIML student in section B. Their faculty coordinator is Sai Sharma.
+Riaan Solanki is a fourth-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Aditya Bose is a second-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Vishakha Solanki is a fourth-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Riaan Bose is a third-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Tanvi Kumar is a third-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Riya Nair is a second-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Aditi Patel is a fourth-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Aditi Kumar is a second-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Pooja Yadav is a third-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Kunal Rao is a second-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Tanvi Gupta is a third-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Ajay Patel is a first-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Sai Pandey is a fourth-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Neha Verma is a first-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Pooja Yadav is a fourth-year CSIT student in section A. Their faculty coordinator is Kavya Iyer.
+Rahul Kumar is a first-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Priya Iyer is a first-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Surya Verma is a fourth-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Rahul Sharma is a fourth-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Amit Das is a fourth-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Vivaan Verma is a first-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Rohan Bose is a third-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Surya Pandey is a first-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Sanjay Reddy is a second-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Sanjay Nair is a second-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Aisha Das is a first-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Surya Bose is a fourth-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Vihaan Iyer is a first-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Ritu Reddy is a third-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Vihaan Patel is a fourth-year CSIT student in section B. Their faculty coordinator is Surya Verma.
+Vishakha Solanki is a second-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Vedanshi Dabbawala is a second-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Sejal Pandya is a second-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Vaidic Bagul is a second-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Tanvi Rao is a first-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Priya Rao is a first-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Ananya Gupta is a fourth-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Priya Rao is a second-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Neha Reddy is a fourth-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Rohan Das is a third-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Riya Sharma is a fourth-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Isha Patel is a first-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Pooja Singh is a fourth-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Ajay Kumar is a second-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Priya Das is a second-year CSE student in section A. Their faculty coordinator is Raj Sharma.
+Kavya Reddy is a first-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Rohan Das is a third-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Priya Patel is a third-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Sai Joshi is a third-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Neha Reddy is a first-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Sneha Solanki is a second-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Ajay Chauhan is a third-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Rajat Verma is a fourth-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Riya Patel is a first-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Rajat Chauhan is a second-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Simran Rao is a fourth-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Aarav Sharma is a first-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Isha Sharma is a second-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Vivaan Yadav is a fourth-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Meera Nair is a third-year CSE student in section B. Their faculty coordinator is Riya Trivedi.
+Isha Joshi is a fourth-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Rahul Chauhan is a third-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Riya Kumar is a first-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Manish Yadav is a second-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Neha Solanki is a fourth-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Aisha Joshi is a fourth-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Vivaan Iyer is a fourth-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Kavya Das is a first-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Rahul Iyer is a second-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Vishakha Rao is a first-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Shruti Bose is a fourth-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Surya Reddy is a fourth-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Kunal Chauhan is a fourth-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Ananya Sharma is a second-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Aarav Desai is a fourth-year EC student in section A. Their faculty coordinator is Manish Sharma.
+Isha Yadav is a second-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Amit Nair is a first-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Arjun Kumar is a second-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Roshni Reddy is a third-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Aarav Reddy is a fourth-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Kavya Gupta is a third-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Diya Nair is a fourth-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Roshni Gupta is a first-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Riya Iyer is a third-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Aditi Yadav is a second-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Kriti Pandey is a fourth-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Diya Rao is a first-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Shruti Patel is a fourth-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Pooja Yadav is a second-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Ritu Joshi is a third-year EC student in section B. Their faculty coordinator is Roshni Nair.
+Vikram Patel is a fourth-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Riaan Gupta is a third-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Amit Joshi is a first-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Kunal Rao is a second-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Neha Singh is a first-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Sai Solanki is a first-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Simran Rao is a first-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Rahul Solanki is a first-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Meera Das is a first-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Karan Kumar is a second-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Isha Kumar is a first-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Simran Patel is a second-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Vikram Reddy is a second-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Ananya Patel is a fourth-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Aisha Bose is a fourth-year VLSI student in section A. Their faculty coordinator is Ananya Rao.
+Rohan Singh is a second-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Isha Kumar is a fourth-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Manish Nair is a third-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Vihaan Solanki is a first-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Vihaan Sharma is a fourth-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Tanvi Desai is a fourth-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Neha Singh is a first-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Pooja Yadav is a third-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Isha Bose is a third-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Aarav Singh is a first-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Surya Pandey is a fourth-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Aditya Solanki is a first-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Kriti Sharma is a second-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Shruti Gupta is a third-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Vivaan Singh is a first-year VLSI student in section B. Their faculty coordinator is Vihaan Kumar.
+Sneha Yadav is a first-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Ananya Iyer is a first-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Aditya Joshi is a first-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Kavya Bose is a third-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Neha Iyer is a second-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Kriti Solanki is a second-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Vivaan Desai is a third-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Roshni Nair is a third-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Aryan Solanki is a third-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Isha Das is a first-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Simran Patel is a second-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Vikram Nair is a second-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Surya Kumar is a first-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Shruti Verma is a fourth-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Sanjay Nair is a second-year Mechanical student in section A. Their faculty coordinator is Ritu Patel.
+Vivaan Solanki is a third-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Neha Solanki is a third-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Shruti Verma is a third-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Neha Rao is a fourth-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Aarav Singh is a second-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Priya Patel is a first-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Vikram Nair is a first-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Priya Reddy is a fourth-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Riaan Gupta is a fourth-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Priya Chauhan is a first-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Amit Bose is a third-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Manish Desai is a fourth-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Aditi Bose is a third-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Vikram Iyer is a third-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Aarav Solanki is a fourth-year Mechanical student in section B. Their faculty coordinator is Shruti Chauhan.
+Shruti Singh is a second-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Sanjay Sharma is a fourth-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Shruti Sharma is a first-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Diya Verma is a fourth-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Manish Joshi is a third-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Sai Solanki is a fourth-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Ajay Gupta is a third-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Rajat Bose is a fourth-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Aditi Joshi is a second-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Riaan Kumar is a first-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Rajat Pandey is a first-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Manish Kumar is a first-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Sanjay Desai is a third-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Aditi Pandey is a first-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Aisha Patel is a first-year Civil student in section A. Their faculty coordinator is Meera Desai.
+Pooja Patel is a first-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Kavya Desai is a third-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Sanjay Yadav is a first-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Simran Das is a third-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Sanjay Sharma is a third-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Ananya Rao is a third-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Sneha Das is a second-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Rahul Singh is a first-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Tanvi Kumar is a first-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Rohan Reddy is a third-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Aditi Desai is a third-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Ananya Nair is a second-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Rahul Sharma is a third-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Riaan Gupta is a first-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Meera Solanki is a fourth-year Civil student in section B. Their faculty coordinator is Sneha Iyer.
+Their attendance in Machine Learning is 90%.
+Their attendance in Deep Learning is 67%.
+Their attendance in Neural Networks is 80%.
+Their attendance in Python for AI is 71%.
+Their attendance in Data Science is 90%.
+Their attendance in Machine Learning is 71%.
+Their attendance in Deep Learning is 36%.
+Their attendance in Neural Networks is 57%.
+Their attendance in Python for AI is 80%.
+Their attendance in Data Science is 93%.
+Their attendance in Machine Learning is 87%.
+Their attendance in Deep Learning is 73%.
+Their attendance in Neural Networks is 64%.
+Their attendance in Python for AI is 86%.
+Their attendance in Data Science is 79%.
+Their attendance in Machine Learning is 46%.
+Their attendance in Deep Learning is 64%.
+Their attendance in Neural Networks is 67%.
+Their attendance in Python for AI is 70%.
+Their attendance in Data Science is 75%.
+Their attendance in Machine Learning is 71%.
+Their attendance in Deep Learning is 85%.
+Their attendance in Neural Networks is 86%.
+Their attendance in Python for AI is 100%.
+Their attendance in Data Science is 75%.
+Their attendance in Machine Learning is 75%.
+Their attendance in Deep Learning is 80%.
+Their attendance in Neural Networks is 91%.
+Their attendance in Python for AI is 57%.
+Their attendance in Data Science is 85%.
+Their attendance in Machine Learning is 67%.
+Their attendance in Deep Learning is 93%.
+Their attendance in Neural Networks is 90%.
+Their attendance in Python for AI is 69%.
+Their attendance in Data Science is 87%.
+Their attendance in Machine Learning is 80%.
+Their attendance in Deep Learning is 80%.
+Their attendance in Neural Networks is 100%.
+Their attendance in Python for AI is 79%.
+Their attendance in Data Science is 90%.
+Their attendance in Machine Learning is 79%.
+Their attendance in Deep Learning is 91%.
+Their attendance in Neural Networks is 83%.
+Their attendance in Python for AI is 82%.
+Their attendance in Data Science is 64%.
+Their attendance in Machine Learning is 73%.
+Their attendance in Deep Learning is 70%.
+Their attendance in Neural Networks is 77%.
+Their attendance in Python for AI is 71%.
+Their attendance in Data Science is 80%.
+Their attendance in Machine Learning is 55%.
+Their attendance in Deep Learning is 91%.
+Their attendance in Neural Networks is 50%.
+Their attendance in Python for AI is 100%.
+Their attendance in Data Science is 86%.
+Their attendance in Machine Learning is 77%.
+Their attendance in Deep Learning is 73%.
+Their attendance in Neural Networks is 80%.
+Their attendance in Python for AI is 71%.
+Their attendance in Data Science is 86%.
+Their attendance in Machine Learning is 60%.
+Their attendance in Deep Learning is 73%.
+Their attendance in Neural Networks is 80%.
+Their attendance in Python for AI is 77%.
+Their attendance in Data Science is 60%.
+Their attendance in Machine Learning is 73%.
+Their attendance in Deep Learning is 83%.
+Their attendance in Neural Networks is 85%.
+Their attendance in Python for AI is 82%.
+Their attendance in Data Science is 93%.
+Their attendance in Machine Learning is 64%.
+Their attendance in Deep Learning is 73%.
+Their attendance in Neural Networks is 91%.
+Their attendance in Python for AI is 82%.
+Their attendance in Data Science is 82%.
+Their attendance in Machine Learning is 93%.
+Their attendance in Deep Learning is 77%.
+Their attendance in Neural Networks is 87%.
+Their attendance in Python for AI is 79%.
+Their attendance in Data Science is 73%.
+Their attendance in Machine Learning is 100%.
+Their attendance in Deep Learning is 86%.
+Their attendance in Neural Networks is 100%.
+Their attendance in Python for AI is 67%.
+Their attendance in Data Science is 80%.
+Their attendance in Machine Learning is 90%.
+Their attendance in Deep Learning is 79%.
+Their attendance in Neural Networks is 93%.
+Their attendance in Python for AI is 93%.
+Their attendance in Data Science is 86%.
+Their attendance in Machine Learning is 90%.
+Their attendance in Deep Learning is 79%.
+Their attendance in Neural Networks is 93%.
+Their attendance in Python for AI is 92%.
+Their attendance in Data Science is 80%.
+Their attendance in Machine Learning is 79%.
+Their attendance in Deep Learning is 85%.
+Their attendance in Neural Networks is 53%.
+Their attendance in Python for AI is 70%.
+Their attendance in Data Science is 82%.
+Their attendance in Machine Learning is 83%.
+Their attendance in Deep Learning is 100%.
+Their attendance in Neural Networks is 58%.
+Their attendance in Python for AI is 80%.
+Their attendance in Data Science is 73%.
+Their attendance in Machine Learning is 86%.
+Their attendance in Deep Learning is 69%.
+Their attendance in Neural Networks is 73%.
+Their attendance in Python for AI is 75%.
+Their attendance in Data Science is 70%.
+Their attendance in Machine Learning is 100%.
+Their attendance in Deep Learning is 75%.
+Their attendance in Neural Networks is 75%.
+Their attendance in Python for AI is 82%.
+Their attendance in Data Science is 86%.
+Their attendance in Machine Learning is 83%.
+Their attendance in Deep Learning is 71%.
+Their attendance in Neural Networks is 80%.
+Their attendance in Python for AI is 70%.
+Their attendance in Data Science is 67%.
+Their attendance in Machine Learning is 91%.
+Their attendance in Deep Learning is 82%.
+Their attendance in Neural Networks is 93%.
+Their attendance in Python for AI is 79%.
+Their attendance in Data Science is 69%.
+Their attendance in Machine Learning is 92%.
+Their attendance in Deep Learning is 80%.
+Their attendance in Neural Networks is 70%.
+Their attendance in Python for AI is 77%.
+Their attendance in Data Science is 79%.
+Their attendance in Machine Learning is 92%.
+Their attendance in Deep Learning is 67%.
+Their attendance in Neural Networks is 91%.
+Their attendance in Python for AI is 87%.
+Their attendance in Data Science is 100%.
+Their attendance in Machine Learning is 82%.
+Their attendance in Deep Learning is 67%.
+Their attendance in Neural Networks is 80%.
+Their attendance in Python for AI is 40%.
+Their attendance in Data Science is 92%.
+Their attendance in Machine Learning is 75%.
+Their attendance in Deep Learning is 70%.
+Their attendance in Neural Networks is 86%.
+Their attendance in Python for AI is 80%.
+Their attendance in Data Science is 75%.
+Their attendance in Machine Learning is 69%.
+Their attendance in Deep Learning is 92%.
+Their attendance in Neural Networks is 80%.
+Their attendance in Python for AI is 83%.
+Their attendance in Data Science is 100%.
+Their attendance in Web Technologies is 83%.
+Their attendance in Software Testing is 90%.
+Their attendance in Information Security is 70%.
+Their attendance in Cloud Architectures is 85%.
+Their attendance in Web Technologies is 80%.
+Their attendance in Software Testing is 80%.
+Their attendance in Information Security is 87%.
+Their attendance in Cloud Architectures is 85%.
+Their attendance in Web Technologies is 80%.
+Their attendance in Software Testing is 80%.
+Their attendance in Information Security is 90%.
+Their attendance in Cloud Architectures is 64%.
+Their attendance in Web Technologies is 83%.
+Their attendance in Software Testing is 82%.
+Their attendance in Information Security is 83%.
+Their attendance in Cloud Architectures is 100%.
+Their attendance in Web Technologies is 85%.
+Their attendance in Software Testing is 80%.
+Their attendance in Information Security is 70%.
+Their attendance in Cloud Architectures is 91%.
+Their attendance in Web Technologies is 92%.
+Their attendance in Software Testing is 71%.
+Their attendance in Information Security is 93%.
+Their attendance in Cloud Architectures is 73%.
+Their attendance in Web Technologies is 71%.
+Their attendance in Software Testing is 86%.
+Their attendance in Information Security is 70%.
+Their attendance in Cloud Architectures is 79%.
+Their attendance in Web Technologies is 75%.
+Their attendance in Software Testing is 90%.
+Their attendance in Information Security is 83%.
+Their attendance in Cloud Architectures is 75%.
+Their attendance in Web Technologies is 100%.
+Their attendance in Software Testing is 77%.
+Their attendance in Information Security is 62%.
+Their attendance in Cloud Architectures is 87%.
+Their attendance in Web Technologies is 100%.
+Their attendance in Software Testing is 54%.
+Their attendance in Information Security is 73%.
+Their attendance in Cloud Architectures is 85%.
+Their attendance in Web Technologies is 91%.
+Their attendance in Software Testing is 91%.
+Their attendance in Information Security is 87%.
+Their attendance in Cloud Architectures is 64%.
+Their attendance in Web Technologies is 80%.
+Their attendance in Software Testing is 64%.
+Their attendance in Information Security is 85%.
+Their attendance in Cloud Architectures is 86%.
+Their attendance in Web Technologies is 58%.
+Their attendance in Software Testing is 71%.
+Their attendance in Information Security is 83%.
+Their attendance in Cloud Architectures is 83%.
+Their attendance in Web Technologies is 90%.
+Their attendance in Software Testing is 73%.
+Their attendance in Information Security is 87%.
+Their attendance in Cloud Architectures is 69%.
+Their attendance in Web Technologies is 91%.
+Their attendance in Software Testing is 100%.
+Their attendance in Information Security is 93%.
+Their attendance in Cloud Architectures is 60%.
+Their attendance in Web Technologies is 92%.
+Their attendance in Software Testing is 77%.
+Their attendance in Information Security is 83%.
+Their attendance in Cloud Architectures is 86%.
+Their attendance in Web Technologies is 82%.
+Their attendance in Software Testing is 77%.
+Their attendance in Information Security is 92%.
+Their attendance in Cloud Architectures is 86%.
+Their attendance in Web Technologies is 90%.
+Their attendance in Software Testing is 45%.
+Their attendance in Information Security is 73%.
+Their attendance in Cloud Architectures is 92%.
+Their attendance in Web Technologies is 86%.
+Their attendance in Software Testing is 79%.
+Their attendance in Information Security is 73%.
+Their attendance in Cloud Architectures is 87%.
+Their attendance in Web Technologies is 86%.
+Their attendance in Software Testing is 79%.
+Their attendance in Information Security is 91%.
+Their attendance in Cloud Architectures is 87%.
+Their attendance in Web Technologies is 70%.
+Their attendance in Software Testing is 90%.
+Their attendance in Information Security is 79%.
+Their attendance in Cloud Architectures is 70%.
+Their attendance in Web Technologies is 82%.
+Their attendance in Software Testing is 80%.
+Their attendance in Information Security is 67%.
+Their attendance in Cloud Architectures is 83%.
+Their attendance in Web Technologies is 87%.
+Their attendance in Software Testing is 58%.
+Their attendance in Information Security is 90%.
+Their attendance in Cloud Architectures is 87%.
+Their attendance in Web Technologies is 92%.
+Their attendance in Software Testing is 71%.
+Their attendance in Information Security is 80%.
+Their attendance in Cloud Architectures is 80%.
+Their attendance in Web Technologies is 90%.
+Their attendance in Software Testing is 93%.
+Their attendance in Information Security is 80%.
+Their attendance in Cloud Architectures is 91%.
+Their attendance in Web Technologies is 36%.
+Their attendance in Software Testing is 91%.
+Their attendance in Information Security is 100%.
+Their attendance in Cloud Architectures is 80%.
+Their attendance in Web Technologies is 93%.
+Their attendance in Software Testing is 83%.
+Their attendance in Information Security is 71%.
+Their attendance in Cloud Architectures is 67%.
+Their attendance in Web Technologies is 100%.
+Their attendance in Software Testing is 90%.
+Their attendance in Information Security is 50%.
+Their attendance in Cloud Architectures is 77%.
+Their attendance in Web Technologies is 80%.
+Their attendance in Software Testing is 90%.
+Their attendance in Information Security is 80%.
+Their attendance in Cloud Architectures is 60%.
+Their attendance in Web Technologies is 93%.
+Their attendance in Software Testing is 82%.
+Their attendance in Information Security is 91%.
+Their attendance in Cloud Architectures is 93%.
+Their attendance in Data Structures is 79%.
+Their attendance in Operating Systems is 91%.
+Their attendance in DBMS is 77%.
+Their attendance in Computer Networks is 79%.
+Their attendance in AI is 83%.
+Their attendance in Data Structures is 83%.
+Their attendance in Operating Systems is 54%.
+Their attendance in DBMS is 90%.
+Their attendance in Computer Networks is 83%.
+Their attendance in AI is 100%.
+Their attendance in Data Structures is 100%.
+Their attendance in Operating Systems is 64%.
+Their attendance in DBMS is 82%.
+Their attendance in Computer Networks is 100%.
+Their attendance in AI is 100%.
+Their attendance in Data Structures is 73%.
+Their attendance in Operating Systems is 80%.
+Their attendance in DBMS is 77%.
+Their attendance in Computer Networks is 100%.
+Their attendance in AI is 87%.
+Their attendance in Data Structures is 92%.
+Their attendance in Operating Systems is 79%.
+Their attendance in DBMS is 70%.
+Their attendance in Computer Networks is 93%.
+Their attendance in AI is 87%.
+Their attendance in Data Structures is 69%.
+Their attendance in Operating Systems is 79%.
+Their attendance in DBMS is 67%.
+Their attendance in Computer Networks is 85%.
+Their attendance in AI is 93%.
+Their attendance in Data Structures is 85%.
+Their attendance in Operating Systems is 80%.
+Their attendance in DBMS is 86%.
+Their attendance in Computer Networks is 70%.
+Their attendance in AI is 64%.
+Their attendance in Data Structures is 92%.
+Their attendance in Operating Systems is 87%.
+Their attendance in DBMS is 83%.
+Their attendance in Computer Networks is 85%.
+Their attendance in AI is 77%.
+Their attendance in Data Structures is 60%.
+Their attendance in Operating Systems is 71%.
+Their attendance in DBMS is 50%.
+Their attendance in Computer Networks is 92%.
+Their attendance in AI is 75%.
+Their attendance in Data Structures is 80%.
+Their attendance in Operating Systems is 73%.
+Their attendance in DBMS is 92%.
+Their attendance in Computer Networks is 50%.
+Their attendance in AI is 70%.
+Their attendance in Data Structures is 64%.
+Their attendance in Operating Systems is 91%.
+Their attendance in DBMS is 85%.
+Their attendance in Computer Networks is 80%.
+Their attendance in AI is 64%.
+Their attendance in Data Structures is 93%.
+Their attendance in Operating Systems is 92%.
+Their attendance in DBMS is 69%.
+Their attendance in Computer Networks is 92%.
+Their attendance in AI is 77%.
+Their attendance in Data Structures is 70%.
+Their attendance in Operating Systems is 90%.
+Their attendance in DBMS is 93%.
+Their attendance in Computer Networks is 92%.
+Their attendance in AI is 92%.
+Their attendance in Data Structures is 73%.
+Their attendance in Operating Systems is 100%.
+Their attendance in DBMS is 100%.
+Their attendance in Computer Networks is 90%.
+Their attendance in AI is 86%.
+Their attendance in Data Structures is 92%.
+Their attendance in Operating Systems is 62%.
+Their attendance in DBMS is 80%.
+Their attendance in Computer Networks is 80%.
+Their attendance in AI is 93%.
+Their attendance in Data Structures is 70%.
+Their attendance in Operating Systems is 71%.
+Their attendance in DBMS is 83%.
+Their attendance in Computer Networks is 80%.
+Their attendance in AI is 90%.
+Their attendance in Data Structures is 82%.
+Their attendance in Operating Systems is 77%.
+Their attendance in DBMS is 73%.
+Their attendance in Computer Networks is 75%.
+Their attendance in AI is 83%.
+Their attendance in Data Structures is 85%.
+Their attendance in Operating Systems is 73%.
+Their attendance in DBMS is 93%.
+Their attendance in Computer Networks is 86%.
+Their attendance in AI is 82%.
+Their attendance in Data Structures is 86%.
+Their attendance in Operating Systems is 83%.
+Their attendance in DBMS is 77%.
+Their attendance in Computer Networks is 79%.
+Their attendance in AI is 64%.
+Their attendance in Data Structures is 93%.
+Their attendance in Operating Systems is 77%.
+Their attendance in DBMS is 70%.
+Their attendance in Computer Networks is 92%.
+Their attendance in AI is 87%.
+Their attendance in Data Structures is 77%.
+Their attendance in Operating Systems is 64%.
+Their attendance in DBMS is 70%.
+Their attendance in Computer Networks is 83%.
+Their attendance in AI is 80%.
+Their attendance in Data Structures is 80%.
+Their attendance in Operating Systems is 90%.
+Their attendance in DBMS is 57%.
+Their attendance in Computer Networks is 50%.
+Their attendance in AI is 82%.
+Their attendance in Data Structures is 83%.
+Their attendance in Operating Systems is 93%.
+Their attendance in DBMS is 71%.
+Their attendance in Computer Networks is 70%.
+Their attendance in AI is 100%.
+Their attendance in Data Structures is 91%.
+Their attendance in Operating Systems is 93%.
+Their attendance in DBMS is 93%.
+Their attendance in Computer Networks is 71%.
+Their attendance in AI is 80%.
+Their attendance in Data Structures is 92%.
+Their attendance in Operating Systems is 80%.
+Their attendance in DBMS is 87%.
+Their attendance in Computer Networks is 80%.
+Their attendance in AI is 64%.
+Their attendance in Data Structures is 85%.
+Their attendance in Operating Systems is 77%.
+Their attendance in DBMS is 100%.
+Their attendance in Computer Networks is 80%.
+Their attendance in AI is 85%.
+Their attendance in Data Structures is 85%.
+Their attendance in Operating Systems is 67%.
+Their attendance in DBMS is 93%.
+Their attendance in Computer Networks is 79%.
+Their attendance in AI is 71%.
+Their attendance in Data Structures is 77%.
+Their attendance in Operating Systems is 93%.
+Their attendance in DBMS is 75%.
+Their attendance in Computer Networks is 87%.
+Their attendance in AI is 91%.
+Their attendance in Data Structures is 73%.
+Their attendance in Operating Systems is 64%.
+Their attendance in DBMS is 93%.
+Their attendance in Computer Networks is 82%.
+Their attendance in AI is 100%.
+Their attendance in Data Structures is 73%.
+Their attendance in Operating Systems is 77%.
+Their attendance in DBMS is 69%.
+Their attendance in Computer Networks is 75%.
+Their attendance in AI is 77%.
+Their attendance in Signals and Systems is 50%.
+Their attendance in Digital Electronics is 70%.
+Their attendance in Microprocessors is 91%.
+Their attendance in Communication Systems is 93%.
+Their attendance in Signals and Systems is 82%.
+Their attendance in Digital Electronics is 67%.
+Their attendance in Microprocessors is 92%.
+Their attendance in Communication Systems is 86%.
+Their attendance in Signals and Systems is 79%.
+Their attendance in Digital Electronics is 82%.
+Their attendance in Microprocessors is 93%.
+Their attendance in Communication Systems is 92%.
+Their attendance in Signals and Systems is 70%.
+Their attendance in Digital Electronics is 73%.
+Their attendance in Microprocessors is 80%.
+Their attendance in Communication Systems is 54%.
+Their attendance in Signals and Systems is 75%.
+Their attendance in Digital Electronics is 93%.
+Their attendance in Microprocessors is 67%.
+Their attendance in Communication Systems is 77%.
+Their attendance in Signals and Systems is 75%.
+Their attendance in Digital Electronics is 92%.
+Their attendance in Microprocessors is 64%.
+Their attendance in Communication Systems is 100%.
+Their attendance in Signals and Systems is 92%.
+Their attendance in Digital Electronics is 80%.
+Their attendance in Microprocessors is 80%.
+Their attendance in Communication Systems is 75%.
+Their attendance in Signals and Systems is 90%.
+Their attendance in Digital Electronics is 69%.
+Their attendance in Microprocessors is 80%.
+Their attendance in Communication Systems is 67%.
+Their attendance in Signals and Systems is 71%.
+Their attendance in Digital Electronics is 57%.
+Their attendance in Microprocessors is 85%.
+Their attendance in Communication Systems is 62%.
+Their attendance in Signals and Systems is 91%.
+Their attendance in Digital Electronics is 82%.
+Their attendance in Microprocessors is 64%.
+Their attendance in Communication Systems is 73%.
+Their attendance in Signals and Systems is 91%.
+Their attendance in Digital Electronics is 90%.
+Their attendance in Microprocessors is 83%.
+Their attendance in Communication Systems is 100%.
+Their attendance in Signals and Systems is 85%.
+Their attendance in Digital Electronics is 100%.
+Their attendance in Microprocessors is 90%.
+Their attendance in Communication Systems is 100%.
+Their attendance in Signals and Systems is 75%.
+Their attendance in Digital Electronics is 73%.
+Their attendance in Microprocessors is 86%.
+Their attendance in Communication Systems is 93%.
+Their attendance in Signals and Systems is 75%.
+Their attendance in Digital Electronics is 79%.
+Their attendance in Microprocessors is 85%.
+Their attendance in Communication Systems is 67%.
+Their attendance in Signals and Systems is 73%.
+Their attendance in Digital Electronics is 100%.
+Their attendance in Microprocessors is 75%.
+Their attendance in Communication Systems is 83%.
+Their attendance in Signals and Systems is 60%.
+Their attendance in Digital Electronics is 85%.
+Their attendance in Microprocessors is 70%.
+Their attendance in Communication Systems is 92%.
+Their attendance in Signals and Systems is 92%.
+Their attendance in Digital Electronics is 83%.
+Their attendance in Microprocessors is 93%.
+Their attendance in Communication Systems is 92%.
+Their attendance in Signals and Systems is 73%.
+Their attendance in Digital Electronics is 86%.
+Their attendance in Microprocessors is 87%.
+Their attendance in Communication Systems is 79%.
+Their attendance in Signals and Systems is 73%.
+Their attendance in Digital Electronics is 77%.
+Their attendance in Microprocessors is 93%.
+Their attendance in Communication Systems is 75%.
+Their attendance in Signals and Systems is 69%.
+Their attendance in Digital Electronics is 87%.
+Their attendance in Microprocessors is 73%.
+Their attendance in Communication Systems is 85%.
+Their attendance in Signals and Systems is 50%.
+Their attendance in Digital Electronics is 91%.
+Their attendance in Microprocessors is 71%.
+Their attendance in Communication Systems is 70%.
+Their attendance in Signals and Systems is 46%.
+Their attendance in Digital Electronics is 86%.
+Their attendance in Microprocessors is 80%.
+Their attendance in Communication Systems is 70%.
+Their attendance in Signals and Systems is 71%.
+Their attendance in Digital Electronics is 87%.
+Their attendance in Microprocessors is 82%.
+Their attendance in Communication Systems is 73%.
+Their attendance in Signals and Systems is 64%.
+Their attendance in Digital Electronics is 92%.
+Their attendance in Microprocessors is 90%.
+Their attendance in Communication Systems is 91%.
+Their attendance in Signals and Systems is 69%.
+Their attendance in Digital Electronics is 73%.
+Their attendance in Microprocessors is 69%.
+Their attendance in Communication Systems is 90%.
+Their attendance in Signals and Systems is 73%.
+Their attendance in Digital Electronics is 67%.
+Their attendance in Microprocessors is 93%.
+Their attendance in Communication Systems is 71%.
+Their attendance in Signals and Systems is 91%.
+Their attendance in Digital Electronics is 57%.
+Their attendance in Microprocessors is 58%.
+Their attendance in Communication Systems is 93%.
+Their attendance in Signals and Systems is 73%.
+Their attendance in Digital Electronics is 73%.
+Their attendance in Microprocessors is 83%.
+Their attendance in Communication Systems is 85%.
+Their attendance in Signals and Systems is 73%.
+Their attendance in Digital Electronics is 100%.
+Their attendance in Microprocessors is 79%.
+Their attendance in Communication Systems is 64%.
+Their attendance in Signals and Systems is 77%.
+Their attendance in Digital Electronics is 100%.
+Their attendance in Microprocessors is 80%.
+Their attendance in Communication Systems is 69%.
+Their attendance in Analog Layout is 86%.
+Their attendance in Digital VLSI is 71%.
+Their attendance in Verilog is 67%.
+Their attendance in Semiconductor Devices is 73%.
+Their attendance in Analog Layout is 93%.
+Their attendance in Digital VLSI is 83%.
+Their attendance in Verilog is 83%.
+Their attendance in Semiconductor Devices is 75%.
+Their attendance in Analog Layout is 80%.
+Their attendance in Digital VLSI is 83%.
+Their attendance in Verilog is 93%.
+Their attendance in Semiconductor Devices is 73%.
+Their attendance in Analog Layout is 73%.
+Their attendance in Digital VLSI is 82%.
+Their attendance in Verilog is 80%.
+Their attendance in Semiconductor Devices is 82%.
+Their attendance in Analog Layout is 92%.
+Their attendance in Digital VLSI is 92%.
+Their attendance in Verilog is 83%.
+Their attendance in Semiconductor Devices is 87%.
+Their attendance in Analog Layout is 77%.
+Their attendance in Digital VLSI is 100%.
+Their attendance in Verilog is 80%.
+Their attendance in Semiconductor Devices is 73%.
+Their attendance in Analog Layout is 67%.
+Their attendance in Digital VLSI is 82%.
+Their attendance in Verilog is 80%.
+Their attendance in Semiconductor Devices is 92%.
+Their attendance in Analog Layout is 69%.
+Their attendance in Digital VLSI is 70%.
+Their attendance in Verilog is 60%.
+Their attendance in Semiconductor Devices is 80%.
+Their attendance in Analog Layout is 100%.
+Their attendance in Digital VLSI is 71%.
+Their attendance in Verilog is 64%.
+Their attendance in Semiconductor Devices is 82%.
+Their attendance in Analog Layout is 75%.
+Their attendance in Digital VLSI is 92%.
+Their attendance in Verilog is 86%.
+Their attendance in Semiconductor Devices is 73%.
+Their attendance in Analog Layout is 100%.
+Their attendance in Digital VLSI is 67%.
+Their attendance in Verilog is 83%.
+Their attendance in Semiconductor Devices is 83%.
+Their attendance in Analog Layout is 73%.
+Their attendance in Digital VLSI is 87%.
+Their attendance in Verilog is 92%.
+Their attendance in Semiconductor Devices is 100%.
+Their attendance in Analog Layout is 92%.
+Their attendance in Digital VLSI is 86%.
+Their attendance in Verilog is 86%.
+Their attendance in Semiconductor Devices is 71%.
+Their attendance in Analog Layout is 75%.
+Their attendance in Digital VLSI is 83%.
+Their attendance in Verilog is 70%.
+Their attendance in Semiconductor Devices is 77%.
+Their attendance in Analog Layout is 80%.
+Their attendance in Digital VLSI is 79%.
+Their attendance in Verilog is 83%.
+Their attendance in Semiconductor Devices is 67%.
+Their attendance in Analog Layout is 92%.
+Their attendance in Digital VLSI is 79%.
+Their attendance in Verilog is 80%.
+Their attendance in Semiconductor Devices is 80%.
+Their attendance in Analog Layout is 100%.
+Their attendance in Digital VLSI is 70%.
+Their attendance in Verilog is 69%.
+Their attendance in Semiconductor Devices is 73%.
+Their attendance in Analog Layout is 79%.
+Their attendance in Digital VLSI is 67%.
+Their attendance in Verilog is 87%.
+Their attendance in Semiconductor Devices is 82%.
+Their attendance in Analog Layout is 92%.
+Their attendance in Digital VLSI is 79%.
+Their attendance in Verilog is 77%.
+Their attendance in Semiconductor Devices is 64%.
+Their attendance in Analog Layout is 77%.
+Their attendance in Digital VLSI is 93%.
+Their attendance in Verilog is 70%.
+Their attendance in Semiconductor Devices is 92%.
+Their attendance in Analog Layout is 64%.
+Their attendance in Digital VLSI is 79%.
+Their attendance in Verilog is 90%.
+Their attendance in Semiconductor Devices is 70%.
+Their attendance in Analog Layout is 91%.
+Their attendance in Digital VLSI is 64%.
+Their attendance in Verilog is 75%.
+Their attendance in Semiconductor Devices is 83%.
+Their attendance in Analog Layout is 86%.
+Their attendance in Digital VLSI is 83%.
+Their attendance in Verilog is 100%.
+Their attendance in Semiconductor Devices is 83%.
+Their attendance in Analog Layout is 92%.
+Their attendance in Digital VLSI is 73%.
+Their attendance in Verilog is 62%.
+Their attendance in Semiconductor Devices is 100%.
+Their attendance in Analog Layout is 91%.
+Their attendance in Digital VLSI is 90%.
+Their attendance in Verilog is 50%.
+Their attendance in Semiconductor Devices is 73%.
+Their attendance in Analog Layout is 87%.
+Their attendance in Digital VLSI is 83%.
+Their attendance in Verilog is 80%.
+Their attendance in Semiconductor Devices is 67%.
+Their attendance in Analog Layout is 73%.
+Their attendance in Digital VLSI is 79%.
+Their attendance in Verilog is 82%.
+Their attendance in Semiconductor Devices is 73%.
+Their attendance in Analog Layout is 83%.
+Their attendance in Digital VLSI is 50%.
+Their attendance in Verilog is 100%.
+Their attendance in Semiconductor Devices is 92%.
+Their attendance in Analog Layout is 100%.
+Their attendance in Digital VLSI is 93%.
+Their attendance in Verilog is 77%.
+Their attendance in Semiconductor Devices is 67%.
+Their attendance in Analog Layout is 73%.
+Their attendance in Digital VLSI is 86%.
+Their attendance in Verilog is 90%.
+Their attendance in Semiconductor Devices is 70%.
+Their attendance in Thermodynamics is 83%.
+Their attendance in Fluid Mechanics is 62%.
+Their attendance in Machine Design is 100%.
+Their attendance in Robotics is 85%.
+Their attendance in Thermodynamics is 93%.
+Their attendance in Fluid Mechanics is 83%.
+Their attendance in Machine Design is 100%.
+Their attendance in Robotics is 80%.
+Their attendance in Thermodynamics is 69%.
+Their attendance in Fluid Mechanics is 69%.
+Their attendance in Machine Design is 73%.
+Their attendance in Robotics is 77%.
+Their attendance in Thermodynamics is 100%.
+Their attendance in Fluid Mechanics is 64%.
+Their attendance in Machine Design is 93%.
+Their attendance in Robotics is 86%.
+Their attendance in Thermodynamics is 73%.
+Their attendance in Fluid Mechanics is 93%.
+Their attendance in Machine Design is 83%.
+Their attendance in Robotics is 75%.
+Their attendance in Thermodynamics is 85%.
+Their attendance in Fluid Mechanics is 85%.
+Their attendance in Machine Design is 90%.
+Their attendance in Robotics is 73%.
+Their attendance in Thermodynamics is 93%.
+Their attendance in Fluid Mechanics is 100%.
+Their attendance in Machine Design is 69%.
+Their attendance in Robotics is 100%.
+Their attendance in Thermodynamics is 75%.
+Their attendance in Fluid Mechanics is 64%.
+Their attendance in Machine Design is 69%.
+Their attendance in Robotics is 64%.
+Their attendance in Thermodynamics is 83%.
+Their attendance in Fluid Mechanics is 87%.
+Their attendance in Machine Design is 79%.
+Their attendance in Robotics is 83%.
+Their attendance in Thermodynamics is 70%.
+Their attendance in Fluid Mechanics is 70%.
+Their attendance in Machine Design is 82%.
+Their attendance in Robotics is 75%.
+Their attendance in Thermodynamics is 87%.
+Their attendance in Fluid Mechanics is 69%.
+Their attendance in Machine Design is 55%.
+Their attendance in Robotics is 80%.
+Their attendance in Thermodynamics is 73%.
+Their attendance in Fluid Mechanics is 93%.
+Their attendance in Machine Design is 87%.
+Their attendance in Robotics is 79%.
+Their attendance in Thermodynamics is 73%.
+Their attendance in Fluid Mechanics is 83%.
+Their attendance in Machine Design is 77%.
+Their attendance in Robotics is 73%.
+Their attendance in Thermodynamics is 80%.
+Their attendance in Fluid Mechanics is 93%.
+Their attendance in Machine Design is 90%.
+Their attendance in Robotics is 92%.
+Their attendance in Thermodynamics is 75%.
+Their attendance in Fluid Mechanics is 92%.
+Their attendance in Machine Design is 92%.
+Their attendance in Robotics is 77%.
+Their attendance in Thermodynamics is 100%.
+Their attendance in Fluid Mechanics is 82%.
+Their attendance in Machine Design is 90%.
+Their attendance in Robotics is 93%.
+Their attendance in Thermodynamics is 70%.
+Their attendance in Fluid Mechanics is 60%.
+Their attendance in Machine Design is 100%.
+Their attendance in Robotics is 69%.
+Their attendance in Thermodynamics is 73%.
+Their attendance in Fluid Mechanics is 75%.
+Their attendance in Machine Design is 73%.
+Their attendance in Robotics is 60%.
+Their attendance in Thermodynamics is 83%.
+Their attendance in Fluid Mechanics is 92%.
+Their attendance in Machine Design is 73%.
+Their attendance in Robotics is 70%.
+Their attendance in Thermodynamics is 100%.
+Their attendance in Fluid Mechanics is 91%.
+Their attendance in Machine Design is 92%.
+Their attendance in Robotics is 75%.
+Their attendance in Thermodynamics is 80%.
+Their attendance in Fluid Mechanics is 80%.
+Their attendance in Machine Design is 79%.
+Their attendance in Robotics is 69%.
+Their attendance in Thermodynamics is 91%.
+Their attendance in Fluid Mechanics is 73%.
+Their attendance in Machine Design is 83%.
+Their attendance in Robotics is 80%.
+Their attendance in Thermodynamics is 67%.
+Their attendance in Fluid Mechanics is 90%.
+Their attendance in Machine Design is 91%.
+Their attendance in Robotics is 100%.
+Their attendance in Thermodynamics is 87%.
+Their attendance in Fluid Mechanics is 93%.
+Their attendance in Machine Design is 92%.
+Their attendance in Robotics is 100%.
+Their attendance in Thermodynamics is 92%.
+Their attendance in Fluid Mechanics is 82%.
+Their attendance in Machine Design is 86%.
+Their attendance in Robotics is 90%.
+Their attendance in Thermodynamics is 77%.
+Their attendance in Fluid Mechanics is 70%.
+Their attendance in Machine Design is 85%.
+Their attendance in Robotics is 77%.
+Their attendance in Thermodynamics is 100%.
+Their attendance in Fluid Mechanics is 73%.
+Their attendance in Machine Design is 82%.
+Their attendance in Robotics is 100%.
+Their attendance in Thermodynamics is 71%.
+Their attendance in Fluid Mechanics is 73%.
+Their attendance in Machine Design is 82%.
+Their attendance in Robotics is 77%.
+Their attendance in Thermodynamics is 93%.
+Their attendance in Fluid Mechanics is 73%.
+Their attendance in Machine Design is 92%.
+Their attendance in Robotics is 82%.
+Their attendance in Thermodynamics is 100%.
+Their attendance in Fluid Mechanics is 62%.
+Their attendance in Machine Design is 79%.
+Their attendance in Robotics is 83%.
+Their attendance in Structural Analysis is 87%.
+Their attendance in Fluid Kinematics is 92%.
+Their attendance in Surveying is 70%.
+Their attendance in Concrete Technology is 80%.
+Their attendance in Structural Analysis is 64%.
+Their attendance in Fluid Kinematics is 93%.
+Their attendance in Surveying is 80%.
+Their attendance in Concrete Technology is 67%.
+Their attendance in Structural Analysis is 67%.
+Their attendance in Fluid Kinematics is 93%.
+Their attendance in Surveying is 79%.
+Their attendance in Concrete Technology is 73%.
+Their attendance in Structural Analysis is 100%.
+Their attendance in Fluid Kinematics is 87%.
+Their attendance in Surveying is 92%.
+Their attendance in Concrete Technology is 92%.
+Their attendance in Structural Analysis is 75%.
+Their attendance in Fluid Kinematics is 85%.
+Their attendance in Surveying is 85%.
+Their attendance in Concrete Technology is 90%.
+Their attendance in Structural Analysis is 92%.
+Their attendance in Fluid Kinematics is 50%.
+Their attendance in Surveying is 90%.
+Their attendance in Concrete Technology is 82%.
+Their attendance in Structural Analysis is 62%.
+Their attendance in Fluid Kinematics is 91%.
+Their attendance in Surveying is 80%.
+Their attendance in Concrete Technology is 92%.
+Their attendance in Structural Analysis is 80%.
+Their attendance in Fluid Kinematics is 100%.
+Their attendance in Surveying is 92%.
+Their attendance in Concrete Technology is 79%.
+Their attendance in Structural Analysis is 87%.
+Their attendance in Fluid Kinematics is 90%.
+Their attendance in Surveying is 73%.
+Their attendance in Concrete Technology is 79%.
+Their attendance in Structural Analysis is 67%.
+Their attendance in Fluid Kinematics is 85%.
+Their attendance in Surveying is 60%.
+Their attendance in Concrete Technology is 73%.
+Their attendance in Structural Analysis is 77%.
+Their attendance in Fluid Kinematics is 91%.
+Their attendance in Surveying is 90%.
+Their attendance in Concrete Technology is 85%.
+Their attendance in Structural Analysis is 71%.
+Their attendance in Fluid Kinematics is 92%.
+Their attendance in Surveying is 83%.
+Their attendance in Concrete Technology is 77%.
+Their attendance in Structural Analysis is 75%.
+Their attendance in Fluid Kinematics is 80%.
+Their attendance in Surveying is 93%.
+Their attendance in Concrete Technology is 70%.
+Their attendance in Structural Analysis is 83%.
+Their attendance in Fluid Kinematics is 86%.
+Their attendance in Surveying is 80%.
+Their attendance in Concrete Technology is 60%.
+Their attendance in Structural Analysis is 100%.
+Their attendance in Fluid Kinematics is 91%.
+Their attendance in Surveying is 80%.
+Their attendance in Concrete Technology is 100%.
+Their attendance in Structural Analysis is 90%.
+Their attendance in Fluid Kinematics is 54%.
+Their attendance in Surveying is 71%.
+Their attendance in Concrete Technology is 82%.
+Their attendance in Structural Analysis is 80%.
+Their attendance in Fluid Kinematics is 91%.
+Their attendance in Surveying is 90%.
+Their attendance in Concrete Technology is 83%.
+Their attendance in Structural Analysis is 73%.
+Their attendance in Fluid Kinematics is 92%.
+Their attendance in Surveying is 73%.
+Their attendance in Concrete Technology is 64%.
+Their attendance in Structural Analysis is 92%.
+Their attendance in Fluid Kinematics is 100%.
+Their attendance in Surveying is 50%.
+Their attendance in Concrete Technology is 73%.
+Their attendance in Structural Analysis is 77%.
+Their attendance in Fluid Kinematics is 71%.
+Their attendance in Surveying is 83%.
+Their attendance in Concrete Technology is 70%.
+Their attendance in Structural Analysis is 75%.
+Their attendance in Fluid Kinematics is 70%.
+Their attendance in Surveying is 80%.
+Their attendance in Concrete Technology is 73%.
+Their attendance in Structural Analysis is 82%.
+Their attendance in Fluid Kinematics is 69%.
+Their attendance in Surveying is 100%.
+Their attendance in Concrete Technology is 80%.
+Their attendance in Structural Analysis is 80%.
+Their attendance in Fluid Kinematics is 80%.
+Their attendance in Surveying is 80%.
+Their attendance in Concrete Technology is 83%.
+Their attendance in Structural Analysis is 80%.
+Their attendance in Fluid Kinematics is 90%.
+Their attendance in Surveying is 83%.
+Their attendance in Concrete Technology is 73%.
+Their attendance in Structural Analysis is 86%.
+Their attendance in Fluid Kinematics is 92%.
+Their attendance in Surveying is 70%.
+Their attendance in Concrete Technology is 90%.
+Their attendance in Structural Analysis is 90%.
+Their attendance in Fluid Kinematics is 82%.
+Their attendance in Surveying is 80%.
+Their attendance in Concrete Technology is 77%.
+Their attendance in Structural Analysis is 85%.
+Their attendance in Fluid Kinematics is 67%.
+Their attendance in Surveying is 86%.
+Their attendance in Concrete Technology is 71%.
+Their attendance in Structural Analysis is 77%.
+Their attendance in Fluid Kinematics is 79%.
+Their attendance in Surveying is 82%.
+Their attendance in Concrete Technology is 80%.
+Their attendance in Structural Analysis is 67%.
+Their attendance in Fluid Kinematics is 73%.
+Their attendance in Surveying is 69%.
+Their attendance in Concrete Technology is 86%.
+Their attendance in Structural Analysis is 83%.
+Their attendance in Fluid Kinematics is 92%.
+Their attendance in Surveying is 69%.
+Their attendance in Concrete Technology is 100%.
+
+--- FAQs ---
+Attendance Criteria: Students must maintain a minimum of 75% attendance in all subjects to be eligible for end-semester exams.
+Assignment Submission: All assignments must be submitted via the Smart Campus portal before 11:59 PM on the deadline date. Late submissions attract a 10% penalty per day.
+Timetable Queries: Classes run from 9:00 AM to 4:00 PM, Monday to Friday. Lunch break is from 1:00 PM to 2:00 PM.
+Scholarship Info: The Merit Scholarship grants ₹50,000 to students with CGPA > 9.0. The Women in Tech scholarship grants ₹75,000 for female students in Tech Branches.

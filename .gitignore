@@ -1,0 +1,6 @@
+.vscode
+.antigavity
+.env
+venv
+__pycache__
+*.pyc

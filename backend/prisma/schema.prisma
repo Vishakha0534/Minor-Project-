@@ -1,0 +1,176 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          String   @id @default(uuid())
+  name        String
+  email       String   @unique
+  password    String
+  role        String   // "admin", "hod", "faculty", "student"
+  department  String
+  phone       String?
+  address     String?
+  gender      String?
+  dateOfBirth String?
+  
+  // Student Specific
+  year        Int?
+  section     String?
+
+  // Faculty Specific
+  subjects    String?  // comma-separated list of subjects
+
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // Relations
+  coordinatedClassrooms Classroom[] @relation("ClassroomCoordinator")
+  taughtClassrooms      Classroom[] @relation("ClassroomTeachers")
+}
+
+model Classroom {
+  id            String   @id @default(uuid())
+  department    String
+  year          Int
+  section       String
+  
+  coordinatorId String
+  coordinator   User     @relation("ClassroomCoordinator", fields: [coordinatorId], references: [id])
+  
+  teachers      User[]   @relation("ClassroomTeachers")
+  
+  createdAt     DateTime @default(now())
+}
+
+model Folder {
+  id          String   @id @default(uuid())
+  name        String
+  classroomId String
+  createdAt   DateTime @default(now())
+}
+
+model Department {
+  id          String   @id @default(uuid())
+  name        String   @unique
+  hodId       String?
+}
+
+model Section {
+  id            String @id @default(uuid())
+  name          String // "A" or "B"
+  department    String
+  coordinatorId String?
+}
+
+model Attendance {
+  id          String   @id @default(uuid())
+  studentId   String
+  classroomId String
+  subject     String
+  facultyId   String
+  date        String
+  status      String   // "Present" or "Absent"
+}
+
+model Assignment {
+  id          String   @id @default(uuid())
+  classroomId String
+  subject     String
+  title       String
+  description String
+  fileUrl     String?
+  deadline    String
+  createdBy   String
+  facultyId   String
+  department  String
+  year        Int
+  createdAt   DateTime @default(now())
+}
+
+model Note {
+  id          String   @id @default(uuid())
+  classroomId String
+  folderId    String?
+  title       String
+  description String
+  fileUrl     String?
+  createdBy   String
+  createdAt   DateTime @default(now())
+}
+
+model Alert {
+  id          String   @id @default(uuid())
+  classroomId String
+  message     String
+  isUrgent    Boolean  @default(false)
+  createdBy   String
+  createdAt   DateTime @default(now())
+}
+
+model Timetable {
+  id          String   @id @default(uuid())
+  classroomId String?
+  department  String
+  year        Int
+  section     String
+  day         String
+  subject     String
+  faculty     String
+  time        String
+}
+
+model Notice {
+  id             String   @id @default(uuid())
+  title          String
+  description    String
+  date           String
+  targetAudience String
+}
+
+model Club {
+  id          String   @id @default(uuid())
+  name        String
+  description String
+  image       String?  // Optional club image
+  events      String?
+}
+
+model Opportunity {
+  id          String   @id @default(uuid())
+  type        String   // "Hackathon", "Internship", "Scholarship"
+  title       String
+  description String
+  organizer   String
+  deadline    String
+  applyUrl    String?
+  createdAt   DateTime @default(now())
+}
+
+model Scholarship {
+  id          String   @id @default(uuid())
+  name        String
+  eligibility String
+  amount      Float
+  deadline    String
+}
+
+model Issue {
+  id          String   @id @default(uuid())
+  title       String
+  description String
+  status      String   @default("Pending") // Pending, In Progress, Resolved
+  raisedBy    String   // User Name
+  raisedById  String   // User ID
+  role        String
+  department  String?
+  response    String?
+  respondedBy String?  // Admin/HOD Name
+  createdAt   DateTime @default(now())
+}
+
